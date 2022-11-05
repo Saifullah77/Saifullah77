@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fiverr.**
 
-- 🌱 I’m currently learning **Programming languages, Data structure and Algorithm.**
+- 🌱 I’m currently learning **Programming languages,<br>Data structure and Algorithm.**
 
 - 💬 Ask me about **Anything.**
 
